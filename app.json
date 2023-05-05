@@ -1,8 +1,8 @@
 {
-    "name": "AnimeDex",
+    "name": "ALLWISH",
     "description": "Watch Animes Online For Free",
-    "repository": "https://github.com/TechShreyash/AnimeDex",
-    "logo": "https://cdn.jsdelivr.net/gh/TechShreyash/AnimeDex@main/static/img/favicon.ico",
+    "repository": "#",
+    "logo": "../static/css/favicon.ico",
     "keywords": [
         "python",
         "flask website",
